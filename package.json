@@ -1,0 +1,31 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "prepare": "panda codegen",
+    "start": "vite",
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@pandacss/dev": "^0.40.1",
+    "@park-ui/panda-preset": "^0.38.0",
+    "sass": "^1.77.4",
+    "solid-devtools": "^0.29.2",
+    "vite": "^5.0.11",
+    "vite-plugin-solid": "^2.8.2",
+    "vite-tsconfig-paths": "^4.3.2"
+  },
+  "dependencies": {
+    "@ark-ui/solid": "^3.3.0",
+    "@solidjs/router": "^0.13.5",
+    "lodash-es": "^4.17.21",
+    "lucide-solid": "^0.395.0",
+    "mapbox-gl": "^3.4.0",
+    "ol": "^9.2.4",
+    "solid-js": "^1.8.11"
+  }
+}

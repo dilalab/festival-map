@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    // Your other options...
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./src/*"]
+    }
+  },
+  "include": ["src", "styled-system"]
+}
