@@ -1,7 +1,7 @@
 import mapboxgl from "mapbox-gl";
 
 const colors = ["#FDF1D4", "#F8AD34"];
-const colorsTwo = ["#feb24c", "#1ba347"];
+const colorsTwo = ["#feb24c", "#feb24c"];
 
 export function createUpdateMarkers(map, performances) {
   const markers = {};
