@@ -6,7 +6,7 @@ This repository contains the code of prototype festival map created for the stud
 
 Here is a quick demonstration of the search button use: 
 
-![pnmp](src/assets/prototypegifs/search.gif)
+![pnmp](src/assets/festival-map.jpg)
 
 ## Usage
 
