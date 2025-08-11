@@ -2,11 +2,11 @@
 
 This repository contains the code of prototype festival map created for the study "Navigation for Festival Maps on Mobile Devices" at ITC, Twente University. A seamless integration of temporal information into the festival map is aimed. The two prototype versions provide two different interaction interfaces for managing temporal information.
 
-![pnmp](prototype_photos/all_labelled.png)
+![pnmp](src/assets/festival-map.jpg)
 
 Here is a quick demonstration of the search button use: 
 
-![pnmp](src/assets/festival-map.jpg)
+![pnmp](src/assets/prototypegifs/search.gif)
 
 ## Usage
 
