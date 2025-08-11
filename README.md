@@ -27,6 +27,10 @@ In the project directory, you can run:
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser. Append /v2 to the URL to view the second prototype.
 
-The page will reload if you make edits.<br>
+The page will reload if you make edits.<be>
+
+### Citation
+Dilara Bozkurt. (2025). dilalab/festival-map: Temporal Navigation for Festival Maps on Mobile Devices. Içinde Temporal Navigation for Festival Maps on Mobile Devices (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16795802
+
 
 
