@@ -1,6 +1,6 @@
 ## Info
 
-This repository contains the code of prototype festival map created for the study "Navigation for Festival Maps on Mobile Devices" at ITC, Twente University. A seamless integration of temporal information into the festival map is aimed. The two prototype versions provide two different interaction interfaces for managing temporal information.
+This repository contains the code of the prototype festival map as well as the supplementary material for the study "Temporal Navigation for Festival Maps on Mobile Devices" at ITC, Twente University. A seamless integration of temporal information into the festival map is aimed. The two prototype versions provide two different interaction interfaces for managing temporal information.
 
 ![pnmp](src/assets/festival-map.jpg)
 
